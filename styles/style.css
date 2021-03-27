@@ -18,7 +18,7 @@ p, li {
   letter-spacing: 1px;
 }
 body {
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
   background-color: #FF9500;
   padding: 0 20px 20px 20px;
@@ -34,4 +34,10 @@ img {
   display: block;
   margin: 0 auto;
   width: 550px;
+}
+.viframe{
+
+  display: block;
+  margin: 0 auto;
+
 }
